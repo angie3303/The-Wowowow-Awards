@@ -1,0 +1,56 @@
+body {
+    background-image:url("https://s3.envato.com/files/162112674/Golden%20Christmas%20Particles%20Preview.jpg");
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+}
+.awards{
+    text-align: center;
+    color: pink;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 30px;
+    color: Yellow;
+}
+.song {
+    text-align: center;
+    font-size: 40px;
+    color: orange;
+}
+img { 
+    width: 650px;
+}
+.show {
+    text-align: center;
+    font-size:40px;
+    color: orange;
+}
+.strange {
+    width: 400px; 
+}
+.movie {
+    text-align: center;
+    font-size: 40px;
+    color: orange;
+}
+.book {
+    text-align: center;
+    font-size: 40px;
+    color: orange;
+}
+.it {
+    width: 300px;
+}
+.there {
+    width: 300px;
+}
+body {
+    text-align: center;
+}
+p { 
+    color: white;
+}
